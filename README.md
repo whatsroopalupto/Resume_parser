@@ -1,14 +1,7 @@
 # Resume_parser
-This project includes resume parsing and extraction in a google spreadsheet for better management
-
-
-
-Here's a README.md for your project:
-
-```markdown:/Users/abhay/Downloads/ResumeParserProject/README.md
-# Resume Parser with ATS Scoring
-
 A Python application that parses resumes (PDF), extracts information using Groq AI, calculates an ATS score, and stores the data in Google Sheets.
+
+
 
 ## Features
 
