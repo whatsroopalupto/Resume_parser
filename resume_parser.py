@@ -7,7 +7,7 @@ from PyPDF2 import PdfReader
 import json
 
 # ----------- Groq API Config ------------
-GROQ_API_KEY = "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"
+GROQ_API_KEY = "ENTER YOUR API KEY"
 GROQ_API_URL = "https://api.groq.com/openai/v1/chat/completions"
 GROQ_MODEL = "llama3-70b-8192"
 
