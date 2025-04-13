@@ -11,9 +11,9 @@ SCOPES = [
     'https://www.googleapis.com/auth/spreadsheets',
     'https://www.googleapis.com/auth/drive.file'
 ]
-SPREADSHEET_ID = '1_Uxow6_efH1kI4legTslpYRi1_vc59N1IpvPp_nXoZc'
+SPREADSHEET_ID = 'ENTER YOUR GOOGLE SPREADSHEET ID' # change it with your google spreadsheet id for more detail go through the readme page
 RANGE_NAME = 'Sheet1'  # Change to match your actual sheet name
-CREDS_FILE = r'C:\ResumeParserProject\ResumeParserProject\client_secret_574393684927-pp1h1bp4aqmo4pktrng2l7k3s6s20fp0.apps.googleusercontent.com.json'
+CREDS_FILE = r'PATH TO YOUR CREDENTIALS FILE' # Create the credentials file from google cloud console and paste the path here
 
 class SheetsManager:
     def __init__(self):
