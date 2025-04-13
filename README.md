@@ -24,7 +24,7 @@ A Python application that parses resumes (PDF), extracts information using Groq 
 1. Clone the repository:
 ```bash
 git clone <repository-url>
-cd ResumeParserProject
+cd ResumeParser
 ```
 
 2. Install required packages:
